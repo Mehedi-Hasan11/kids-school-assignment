@@ -13,7 +13,7 @@
 }
 
 body {
-    background-image: url(../assets/bg.png), linear-gradient(#ffffff, #fbd29c);
+    background-image: url(../assets/bg.png), linear-gradient(#ffffff, #fbd29cb6);
 }
 
 /** Header Section **/
